@@ -4,6 +4,6 @@
 
 # 爬取图片
 
-<img src="file:///home/gan/Documents/pythonenv/Spider/img/terminal.png" title="" alt="" width="564">
+<img src="img/terminal.png" title="" alt="" width="564">
 
-<img src="file:///home/gan/Documents/pythonenv/Spider/img/save_image.png" title="" alt="" width="571">
+<img src="img/save_image.png" title="" alt="" width="571">
